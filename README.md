@@ -6,6 +6,12 @@
     </a>
   </h3>
 </div>
+
+```ruby
+  def foo
+    puts 'bar'
+  end
+```
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 - [Overview](#overview)
