@@ -7,6 +7,7 @@
   </h3>
 </div>
 <!-- TABLE OF CONTENTS -->
+# Table
 ## Table of Contents
 - [Overview](#overview)
 - [Built With](#built-with)
