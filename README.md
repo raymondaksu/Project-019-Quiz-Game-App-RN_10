@@ -6,12 +6,6 @@
     </a>
   </h3>
 </div>
-
-```ruby
-  def foo
-    puts 'bar'
-  end
-```
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 - [Overview](#overview)
@@ -22,7 +16,7 @@
 - [Contact](#contact)
 <!-- OVERVIEW -->
 ## Overview
-<img src="src/assets/rest1.gif" height="500">
+<img src="QuizGameApp.gif" height="500">
 ### Built With
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 - [React-native](https://reactnative.dev/)
