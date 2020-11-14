@@ -1,7 +1,7 @@
 <h1 align="center">Project-019-Quiz-Game-App-RN_10</h1>
 <div align="center">
   <h3>
-    <a href="https://github.com/SemihDurmus/SDRN_03_Restaurant_App.git">
+    <a href="https://github.com/raymondaksu/Project-019-Quiz-Game-App-RN_10.git">
       Project Source
     </a>
   </h3>
